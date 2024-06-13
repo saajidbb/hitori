@@ -58,7 +58,7 @@ global.settings = {
 	lang: 'id',
 	anticall: false,
 	autobio: false,
-	readsw: true,
+	readsw: false,
 	template: 'textMessage',
 }
 
